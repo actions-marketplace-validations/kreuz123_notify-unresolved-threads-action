@@ -89,6 +89,10 @@ The workflow's `GITHUB_TOKEN` needs:
 
 - `pull-requests: write` — to read review threads and post the reminder comment.
 
+## Acknowledgement
+
+Built with support from [Flo Apps Ltd](https://floapps.com), inspired by real-world workflow automation needs.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
