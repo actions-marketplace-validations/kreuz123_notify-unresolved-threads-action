@@ -58,7 +58,7 @@ Use `comment-template` to customize the reminder comment. The template supports 
 
 ```yaml
 steps:
-  - uses: kreuz123/notify-unresolved-threads-action@main
+  - uses: kreuz123/notify-unresolved-threads-action@v1
     with:
       wait-seconds: 60
       comment-template: |
