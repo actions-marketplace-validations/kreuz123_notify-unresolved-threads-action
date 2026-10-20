@@ -43,7 +43,7 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - uses: kreuz123/notify-unresolved-threads-action@main
+      - uses: kreuz123/notify-unresolved-threads-action@v1
 ```
 
 ### Configuring the wait time and customizing the comment
